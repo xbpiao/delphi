@@ -11,3 +11,4 @@ Open Blizzard Warcraft III .BLP
   |    |
   |    |-BLPBrowser
 ```
+* BLPFiles目录下是用于测试的*.BLP文件
